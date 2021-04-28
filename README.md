@@ -28,6 +28,10 @@ generates a particular caption given a headline? Does caption of relevant
 images score higher than caption of irrelevant images? (watch [here](https://www.youtube.com/watch?v=G5lmya6eKtc) on
 why text generation model may be the future of NLP pre-trained models)
 
+## Result
+
+ Our result in at RelevanceDetector.ipynb, or see the result in pdf format at RelevanceDetector.pdf
+
 
 ## Group Member
 
